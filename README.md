@@ -7,12 +7,17 @@ Book of dice 是提供使用者進行 TRPG 桌上角色扮演遊戲的線上平�
 ## 開發工具
 
 ‧React.js
+
 ‧react-router-dom
+
 ‧styled-components
+
 ‧socket.io
+
 ‧webpack
 
 ## 開發者
 
 前端：[s22shadowl](https://github.com/s22shadowl)
+
 後端：[fay](https://github.com/york870198)
